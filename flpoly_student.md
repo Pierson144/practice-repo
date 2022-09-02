@@ -4,24 +4,24 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Python for Data Analytics
 
-- Course 3
+- Introduction ot Compuation and Programming
 
-- Course 4
+- Analytic Geometry and Calculus 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Psychology
 
-- Thing 2
+- Challenges
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Computer Science as shown in this link <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/09/2
