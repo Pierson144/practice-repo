@@ -1,4 +1,4 @@
-## Jikhan Jeong
+## Pierson Alexander
 
 ### Term Year 2022 Fall
 
